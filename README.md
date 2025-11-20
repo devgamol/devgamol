@@ -1,20 +1,19 @@
-![Aditya Vikram Singh Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Vikram Singh Banner](https://github.com/devgamol/assets/blob/main/github%20banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Amol</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Amol-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently in my final year, pursuing a degree in Computer Science.\
+🌱 &nbsp;I'm actively developing skills in Full-Stack Development, building Scalable Backend Systems, and implementing real-world solutions..\
+✍️ &nbsp;In my free hours, I engage in photography, videography, and post-production editing.\
+✉️ &nbsp;You can shoot me an email at amolsahu2025@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1xnZHD1Riek5bWJxQ7EQwNnkAV7BzCxk6/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/devgamol/assets/blob/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
